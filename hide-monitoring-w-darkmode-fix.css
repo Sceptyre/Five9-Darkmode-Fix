@@ -1,0 +1,13 @@
+.f9-widget-grid .f9-widget-grid-row.monitor-me .f9-widget-grid-cell {
+  background-color:inherit!important;
+}
+
+
+.f9-widget-grid .f9-widget-grid-row.monitor .f9-widget-grid-cell {
+  background-color:inherit!important;
+}
+
+.f9-widget-grid.theme-dark div.f9-widget-grid-cell-inner,
+.f9-widget-grid.theme-dark span.cell-link {
+    color: rgba(255,255,255,.75) !important;
+}
